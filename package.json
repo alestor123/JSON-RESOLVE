@@ -1,0 +1,23 @@
+{
+  "name": "json-resolve",
+  "version": "1.0.0",
+  "description": "This is a simple code for resolving simple syntax error in json",
+  "main": "App.js",
+  "dependencies": {
+    "jsonlint": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/JSON-RESOLVE.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/JSON-RESOLVE/issues"
+  },
+  "homepage": "https://github.com/alestor123/JSON-RESOLVE#readme"
+}
